@@ -44,3 +44,6 @@ for l in range(0,3):
         print(f'[{matriz[l][c]:^5}]', end='')# end nao pula linha
     print()#pula linha# o : cria formatação e o ^5 cria 5 espaços a cada linha e coluna, faz ficar bonito
     #todo print tem um barra invertida n implicito
+     
+
+print("Testando o git alterando o arquivo")
